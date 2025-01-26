@@ -10,8 +10,8 @@ I’m passionate about data engineering and machine learning, with experience de
 
 ## 🎓 Academic Accounts
 Here are some links to my university-related accounts:
-- [spuertaf](https://github.com/spuertaf): EAFIT university
-- [spuertaf2002](https://github.com/spuertaf2002): UPB university 
+- [spuertaf](https://github.com/spuertaf): EAFIT university.
+- [spuertaf2002](https://github.com/spuertaf2002): UPB university. 
 
 ## I code with
 <div align="left">
